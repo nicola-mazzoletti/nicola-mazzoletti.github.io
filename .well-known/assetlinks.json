@@ -6,7 +6,7 @@
     ],
     "target": {
       "namespace": "android_zk_test_app",
-      "package_name": "com.example.myapp",
+      "package_name": "com.kuiralabs.starter.counter",
       "sha256_cert_fingerprints": [
         "59:4E:5C:6B:76:20:F2:CA:06:ED:44:D3:B7:14:F0:13:8D:AC:D8:F9:6F:3A:76:EB:A2:82:7A:DD:F8:D1:CE:33"
       ]
